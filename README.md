@@ -1,8 +1,8 @@
-# CSE330simulatedUSBdevice
+# simulatedUSBdevice
 
 ## (Ryan Welzel 6/29/2025)
 
-OS class backup. Implements a block abstraction read/write interface to a USB device, using a custom IOCTL interface
+Implements a block abstraction read/write interface to a USB device, using a custom IOCTL interface
 
 ---
 
